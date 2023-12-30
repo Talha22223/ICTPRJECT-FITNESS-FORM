@@ -1,0 +1,70 @@
+
+    
+
+@media only screen and (max-width: 600px) {
+    /* Styles for small screens */
+  }
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles for medium screens */
+  }
+  
+  @media only screen and (min-width: 1025px) {
+    /* Styles for large screens */
+  }
+body{
+    background: #000;
+}
+h1{
+    font-size: xx-large;
+   color: blanchedalmond;
+}  
+h2{
+    font-size:x-large;
+   color: blanchedalmond;
+} 
+    p{
+        color: blanchedalmond;
+        font-size: x-large;
+      
+    }
+    button{
+        color: blanchedalmond;
+        background-color: rgb(50, 50, 50);
+
+    }
+    div{
+        height: 30px;
+        width: 3000px;
+        
+        background-color: yellow;
+    }
+    form{
+        color:black
+        background-color: yellow;
+
+    }
+    img.demo {
+        
+        filter: brightness(5%);
+        filter: contrast(150%);
+        backdrop-filter: 100;
+     }
+     .navbar ul{
+        list-style-type:none;
+        background-color: rgb(43, 40, 40);
+        padding: 0px;
+        margin:0px;
+        overflow:hidden;
+     }
+     .navbar a{
+        color:white;
+        text-decoration: none;
+        padding:15px;
+        display:block;
+        text-align:center;
+
+     }
+     .navbar a:hover{
+        background-color: black;
+     }

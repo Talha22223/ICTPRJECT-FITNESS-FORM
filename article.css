@@ -1,0 +1,74 @@
+
+@media only screen and (max-width: 600px) {
+    /* Styles for small screens */
+  }
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles for medium screens */
+  }
+  
+  @media only screen and (min-width: 1025px) {
+    /* Styles for large screens */
+  }
+
+body{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.yellow{
+    height: 40px;
+    width: auto;
+    background-color: yellow;
+}
+.image{
+    margin-top: 0px;
+    margin-left: 500px;
+}
+.text{
+    color: white;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+    color: white;
+}
+.white{
+    height: 15px;
+    width: auto;
+    background-color: white;
+}
+.yellow1{
+    margin-top: 20px;
+    height: 50px;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 50%;
+  }
+.paragraph{
+    font-size: 25px;
+    color: white
+}
+.yellow2{
+    height: 40px;
+    width: auto;
+    background-color: yellow;
+    text-align: center;
+    color: black;
+}
+h1{
+    color:white;
+}
+button{
+    background-color: yellow;
+    color:black;
+    text-align: center;
+}
+
+

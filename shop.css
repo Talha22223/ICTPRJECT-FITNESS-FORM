@@ -1,0 +1,117 @@
+@media only screen and (max-width: 600px) {
+    /* Styles for small screens */
+  }
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles for medium screens */
+  }
+  
+  @media only screen and (min-width: 1025px) {
+    /* Styles for large screens */
+  }
+
+body{
+    background-color: black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    color: white;
+}
+
+.height{
+    line-height: 100px;
+}
+.yellow{
+    height: 40px;
+    width: auto;
+    background-color: yellow;
+}
+.white{
+    height: 15px;
+    width: auto;
+    background-color: white;
+}
+.picture1{
+float: left;
+margin-left: 150px;
+margin-top: 40px; ;
+}
+.picture2{
+float: right;
+margin-right: 150px;
+margin-top: 40px;
+}
+.price1{
+    float: left;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+h2{
+    color: white;
+}
+.price2{
+    float: right;
+margin-right: 150px;
+margin-top: 10px;
+}
+.white2{
+    margin-top: 500px;
+    height: 15px;
+    width: auto;
+    background-color: white;
+}
+.picture3{
+    float: left;
+    margin-left: 50px;
+
+}
+.picture4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.picture5{
+    float: right;  
+    margin-right: 50px;  
+}
+.pic3{
+    float: left;
+    margin-left: 50px;
+    color: white;
+}
+.pic4{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: white;
+}
+.pic5{
+    float: right;
+    margin-right: 50px;
+}
+.white3{
+    margin-top: 250px;
+    height: 5px;
+    width: auto;
+    background-color: white;
+}
+.white4{
+    
+    margin-top: 10px;
+    height: 5px;
+    width: auto;
+    background-color: white;
+
+}
+button{
+background-color: yellow;
+color: black;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+
+font-size: 16px;
+}

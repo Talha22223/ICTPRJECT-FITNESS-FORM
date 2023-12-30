@@ -1,0 +1,36 @@
+@media only screen and (max-width: 600px) {
+    /* Styles for small screens */
+  }
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles for medium screens */
+  }
+  
+  @media only screen and (min-width: 1025px) {
+    /* Styles for large screens */
+  }
+
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    color:white;
+
+}
+div{
+    margin:0px;
+    background-color: yellow;
+    color:rgb(229, 229, 99);
+}
+h2{
+    color:white;
+    text-align: center;
+}
+button{
+    text-align: center;
+    background-color: yellow;
+    color:black;
+}
+form{
+    text-align: center;
+}
